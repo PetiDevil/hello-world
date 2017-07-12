@@ -1,3 +1,3 @@
-# hello-world
+# Petit Engine
 
-This is a small program called hello world.
+This is a small program called petit engine.
